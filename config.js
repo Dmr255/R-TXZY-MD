@@ -1,19 +1,19 @@
 //=============『 Utama 』================== //
-global.owner = ['6285706735450'] 
-global.mods = ['6285706735450'] 
+global.owner = ['6285707101183'] 
+global.mods = ['6285707101183'] 
 global.prems = [''] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = '⫹⫺ verdi peler ~'
-global.numberowner = '6285706735450'
-global.instagram = 'https://instagram.com/'
-global.github = 'https://github.com/verdihatorou'
+global.nameowner = 'Dmr25'
+global.numberowner = '6285707101183'
+global.instagram = 'https://instagram.com/damarjati_25'
+global.github = 'https://github.com/Dmr255'
 global.dana = ''
 global.pulsa = ''
 global.gopay = ''
 
 //=============『 Info Bot 』=================//
-global.namebot = 'Xziro'
+global.namebot = 'Dmr25'
 global.gc = 'https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL'
 global.web = 'hp' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
@@ -23,10 +23,10 @@ global.fotonya1 = 'https://database.tioclkp02.repl.co/TextPro.me_162df9a5371cb2.
 global.fotonya2 = 'https://database.tioclkp02.repl.co/TextPro.me_162df9a5371cb2.jpg' //ini juga ganti 
 global.lolkey = 'rey2k22' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '© xziro'
+global.wm = '© Dmr25'
 global.watermark = wm
-global.wm2 = '⫹⫺ xziro'
-global.wm3 = '© xziro'
+global.wm2 = 'Dmr25'
+global.wm3 = '© Dmr25'
 global.wm4 = 'Ⓛ = Limit Ⓟ = Premium'
 global.htki = '––––––『' 
 global.htka = '』––––––'
