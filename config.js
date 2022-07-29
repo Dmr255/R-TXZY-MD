@@ -8,9 +8,9 @@ global.nameowner = 'Dmr25'
 global.numberowner = '6285707101183'
 global.instagram = 'https://instagram.com/damarjati_25'
 global.github = 'https://github.com/Dmr255'
-global.dana = ''
-global.pulsa = ''
-global.gopay = ''
+global.dana = '085707101183'
+global.pulsa = '085707101183'
+global.gopay = 'ga ada'
 
 //=============『 Info Bot 』=================//
 global.namebot = 'Dmr25'
